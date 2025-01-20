@@ -14,7 +14,7 @@ The **Entity-Relationship Diagram (ERD)** provides a visual representation of th
 
 ## 📂 Files in This Repository
 - **`schema.sql`** - SQL script to create tables and define relationships.
-- **`erd_diagram.png`** - The Entity-Relationship Diagram (ERD).
+- **`Fashion_Store_Model.mwb`** - The Entity-Relationship Diagram (ERD).
 
 ## 🚀 How to Use
 1. Clone this repository:
