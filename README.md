@@ -23,7 +23,7 @@ The **Entity-Relationship Diagram (ERD)** provides a visual representation of th
    ```
 2. Open the `schema.sql` file in your database management system (DBMS).
 3. Execute the script to create the database schema.
-4. Verify table relationships using the ERD diagram (if provided).
+4. Verify table relationships using the ERD diagram.
 
 ## 📊 Schema Overview
 The database includes **33 tables**, structured with `PRIMARY KEY` and `FOREIGN KEY` constraints to maintain **referential integrity**.
